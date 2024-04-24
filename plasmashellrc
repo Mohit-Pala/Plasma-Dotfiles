@@ -1,0 +1,218 @@
+[Applets][466][Configuration]
+PreloadWeight=42
+
+[Applets][467]
+immutability=1
+plugin=org.kde.plasma.weather
+
+[Applets][467][Configuration]
+PreloadWeight=34
+configMigrated=true
+
+[Applets][467][Configuration][Units]
+pressureUnit=5028
+speedUnit=9002
+temperatureUnit=6002
+visibilityUnit=2024
+
+[Applets][503]
+immutability=1
+plugin=org.kde.plasma.weather
+
+[Applets][503][Configuration]
+UserBackgroundHints=ShadowBackground
+configMigrated=true
+
+[Applets][503][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Applets][503][Configuration][Units]
+pressureUnit=5028
+speedUnit=9002
+temperatureUnit=6002
+visibilityUnit=2024
+
+[Applets][503][Configuration][WeatherStation]
+source=wettercom|weather|Boone, North Carolina, US|US0NC0071;Boone
+
+[Applets][536]
+immutability=1
+plugin=org.kde.plasma.weather
+
+[Applets][536][Configuration]
+UserBackgroundHints=ShadowBackground
+configMigrated=true
+
+[Applets][536][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Applets][536][Configuration][Units]
+pressureUnit=5028
+speedUnit=9002
+temperatureUnit=6002
+visibilityUnit=2024
+
+[Applets][536][Configuration][WeatherStation]
+source=wettercom|weather|Boone, North Carolina, US|US0NC0071;Boone
+
+[FileDialogSize]
+1536x864 screen: Height=790
+1536x864 screen: Width=745
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/wallpapers/tf2_pic_goes.gif,file:$HOME/wallpapers/mogh_butterfly.mp4,file:$HOME/wallpapers/Gleamond.webm,file:$HOME/wallpapers/pic_goes_hard.mkv
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/wallpapers/,file:$HOME/,file:$HOME/Documents/,file:$HOME/Pictures/
+detailViewIconSize=16
+
+[PlasmaViews][Panel 104]
+floating=1
+
+[PlasmaViews][Panel 104][Defaults]
+offset=0
+thickness=32
+
+[PlasmaViews][Panel 129]
+floating=1
+panelLengthMode=1
+panelVisibility=2
+
+[PlasmaViews][Panel 129][Defaults]
+offset=0
+thickness=54
+
+[PlasmaViews][Panel 140]
+floating=1
+
+[PlasmaViews][Panel 140][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 166]
+floating=1
+
+[PlasmaViews][Panel 166][Defaults]
+offset=0
+thickness=32
+
+[PlasmaViews][Panel 192]
+floating=1
+panelLengthMode=1
+panelVisibility=2
+
+[PlasmaViews][Panel 192][Defaults]
+offset=0
+thickness=54
+
+[PlasmaViews][Panel 2]
+floating=1
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 203]
+floating=1
+
+[PlasmaViews][Panel 203][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 229]
+floating=1
+
+[PlasmaViews][Panel 229][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 255]
+floating=1
+
+[PlasmaViews][Panel 255][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 28]
+floating=1
+
+[PlasmaViews][Panel 28][Defaults]
+thickness=36
+
+[PlasmaViews][Panel 281]
+floating=1
+
+[PlasmaViews][Panel 281][Defaults]
+offset=0
+thickness=32
+
+[PlasmaViews][Panel 306]
+floating=1
+panelLengthMode=1
+panelVisibility=2
+
+[PlasmaViews][Panel 306][Defaults]
+offset=0
+thickness=54
+
+[PlasmaViews][Panel 317]
+floating=1
+
+[PlasmaViews][Panel 317][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 343]
+floating=1
+
+[PlasmaViews][Panel 343][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 369]
+floating=1
+
+[PlasmaViews][Panel 369][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 38]
+floating=1
+
+[PlasmaViews][Panel 38][Defaults]
+thickness=27
+
+[PlasmaViews][Panel 395]
+floating=1
+
+[PlasmaViews][Panel 395][Defaults]
+offset=0
+thickness=32
+
+[PlasmaViews][Panel 421]
+floating=1
+panelLengthMode=1
+panelVisibility=2
+
+[PlasmaViews][Panel 421][Defaults]
+offset=0
+thickness=54
+
+[PlasmaViews][Panel 432]
+floating=1
+
+[PlasmaViews][Panel 432][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 51]
+floating=1
+
+[PlasmaViews][Panel 51][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 514]
+floating=1
+
+[PlasmaViews][Panel 514][Defaults]
+thickness=27
+
+[PlasmaViews][Panel 77]
+floating=1
+
+[PlasmaViews][Panel 77][Defaults]
+thickness=38
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/00-start-here-2.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_migrate_font_settings.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_migrateiconsetting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_remove_shortcut.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/mediaframe_migrate_useBackground_setting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/folderview_fix_recursive_screenmapping.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_migrate_showseconds_setting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/migrate_font_weights.js

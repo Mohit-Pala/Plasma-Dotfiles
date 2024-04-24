@@ -1,0 +1,13 @@
+[Desktop Entry]
+DefaultProfile=Profile 1.profile
+
+[General]
+ConfigVersion=1
+
+[MainWindow]
+1536x864 screen: Height=582
+1536x864 screen: Width=911
+ToolBarsMovable=Disabled
+
+[UiSettings]
+ColorScheme=
