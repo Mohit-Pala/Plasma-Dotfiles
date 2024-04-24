@@ -1,0 +1,41 @@
+active-color-profile 0
+autohide-header true
+autosens true
+bars 100
+borderless-window true
+channels 'stereo'
+circle false
+color-animation true
+color-animation-length 5
+color-animation-mirror-target 2
+color-animation-target 1
+color-profiles [('Default', [(255, 120, 0, 1.0)], [(191, 64, 64, 0.0)]), ('Red', [(165, 29, 45, 1.0), (191, 64, 64, 0.76999998092651367)], [(191, 64, 64, 0.0)]), ('yellow', [(246, 211, 45, 0.77999997138977051), (246, 97, 81, 1.0)], [(191, 64, 64, 0.0)])]
+dbus-colors false
+dbus-opacity 100
+direction 'bottom-top'
+fill true
+fps 60
+items-offset 10
+items-roundness 10
+line-thickness 15
+margin 0
+maximized true
+mirror 'overlapping'
+mirror-clones 6
+mirror-colors 0
+mirror-offset 0.0
+mirror-opacity 39
+mirror-ratio 0.80000000000000004
+mirror-sync true
+mode 'wave'
+noise-reduction 0.77000000000000002
+radius 40
+reverse-order false
+sensitivity 10.0
+sharp-corners true
+size (400, 200)
+smoothing 'monstercat'
+wave-inner-circle true
+widgets-style 'dark'
+window-controls false
+
